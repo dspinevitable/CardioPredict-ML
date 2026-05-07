@@ -6,7 +6,7 @@ This repository contains a machine learning project built in a Jupyter Notebook 
 The project encompasses a complete Data Science lifecycle: from data loading and rigorous preprocessing to training, evaluating, and serializing machine learning models. The final model is then wrapped in a basic Flask API structure, ready for web deployment.
 
 🎯 Project Goal
-The primary objective is to:
+The primary objective is to: 
 
 Perform Exploratory Data Analysis (EDA) and Feature Engineering on patient health records.
 
